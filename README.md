@@ -6,18 +6,20 @@ My name is Knrc and I am an 19 year Web/Game-developer and artist.
   * Gamemaker language
 
 - 📫 How to reach me:
-  Email: kontakt.mikey@gmail.com
+
+  * Email: kontakt.mikey@gmail.com
   
-  Twitter: [@Knrcart](https://twitter.com/knrcart)
+  * Twitter: [@Knrcart](https://twitter.com/knrcart)
   
-  Discord: 
+  * Discord: [Knrc#0710](https://discord.com/users/169525054122491905)
   
-  [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/169525054122491905)](https://discord.com/users/169525054122491905)
+ <!-- [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/169525054122491905)](https://discord.com/users/169525054122491905)-->
   
   
  - GitHub Stats
+ 
   ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Knrcs&theme=merko&count_private=true&hide_border=true&line_height=25)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Knrcs)]
+  <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Knrcs&layout=compact&langs_count=)-->
 
 
 
