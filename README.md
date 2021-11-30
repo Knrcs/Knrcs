@@ -11,7 +11,10 @@ My name is Knrc and I am an 19 year Web/Game-developer and artist.
   
   * Twitter: [@Knrcart](https://twitter.com/knrcart)
   
-  * Discord: [Knrc#0710](https://discord.com/users/169525054122491905)
+  * Discord: 
+  
+  [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/169525054122491905)](https://discord.com/users/169525054122491905)
+
   
  <!-- [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/169525054122491905)](https://discord.com/users/169525054122491905)-->
   
