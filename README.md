@@ -2,6 +2,10 @@
 
 My name is Knrc and I am an 19 year Web/Game-developer and artist.
 
+- 🔭 I’m currently working on:
+  * on two different secret projects
+  * Destiny 2 weapon wishlist bot for Discord
+
 - 🌱 I’m currently learning
   * Gamemaker language
 
