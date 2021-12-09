@@ -8,6 +8,8 @@ My name is Knrc and I am an 19 year Web/Game-developer and artist.
 
 - 🌱 I’m currently learning
   * Gamemaker language
+  * C++
+  * C#
 
 - 📫 How to reach me:
 
