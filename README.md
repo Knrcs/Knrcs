@@ -1,15 +1,16 @@
 ### Hi there 👋
 
-My name is Knrc and I am an 19 year Web/Game-developer and artist.
+My name is Knrc and I am an 20 years old Web, Game-developer and artist.
 
 - 🔭 I’m currently working on:
   * Destiny 2 weapon wishlist bot for Discord
-  * On a new Clan Website intigrating the Discord and Bungie API
+  * On a game called [Redacted]
+  * And on some college stuff :>
 
 - 🌱 I’m currently learning
-  * Gamemaker language
   * C++
   * C#
+  * Typescript
 
 - 📫 How to reach me:
 
