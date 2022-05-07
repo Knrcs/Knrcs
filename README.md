@@ -29,6 +29,7 @@ My name is Knrc and I am an 20 years old Web, Game-developer and artist.
  - GitHub Stats
  
   ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Knrcs&theme=merko&count_private=true&hide_border=true&line_height=25)
+  ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Knrcs&theme=onestar)
   <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Knrcs&layout=compact&langs_count=)-->
 
 
