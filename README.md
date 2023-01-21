@@ -3,8 +3,9 @@
 My name is Knrc and I am an 20 years old Web, Game-developer, artist and a very creative person.
 
 - 🔭 I’m currently working on:
-  * On a game called [Redacted]
-  * And on some college stuff :>
+  * On a game called [Redacted] and TBH Creature
+  * 3 different Websites
+  * 
 
 - 🌱 I’m currently learning
   * C++
