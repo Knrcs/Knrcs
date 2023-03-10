@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-My name is Knrc and I am an 20 years old Web, Game-developer, artist and a very creative person.
+My name is Knrc and I am an 21 years old Web, Game-developer, artist and a very creative person.
 
 - 🔭 I’m currently working on:
   * On a game called [Redacted] and TBH Creature
-  * 3 different Websites
-  * 
+  * Currently studying Game Creation 
 
 - 🌱 I’m currently learning
-  * C++
-  * C#
-  * Typescript
+  * C++ for Unreal
+  * C# for Unity
 
 - 📫 How to reach me:
 
