@@ -1,18 +1,19 @@
 ### Hi there 👋
 
-My name is Knrc and I am an 21 years old Web, Game-developer, artist and a very creative person.
+My name is Knrc and I am an 21 years old Web, Game-developer, 2D / 3D artist and in general very creative person.
 
 - 🔭 I’m currently working on:
-  * On a game called [Redacted] and TBH Creature
-  * Currently studying Game Creation 
+  * On a game called [Redacted] and soon on a Gamejam project 👀 Sep 15th is the day woo
+  * Currently studying Game Creation and working hard to be a Indie dev :> 
 
 - 🌱 I’m currently learning
-  * C++ for Unreal
-  * C# for Unity
+  * 3D Character Art
+  * Adobe Illustrator
+  * Even more Unity
 
 - 📫 How to reach me:
 
-  * Email: kontakt.mikey@gmail.com
+  * Email: contact@knrc.art
   
   * Twitter: [@Knrcart](https://twitter.com/knrcart)
   
@@ -24,7 +25,7 @@ My name is Knrc and I am an 21 years old Web, Game-developer, artist and a very 
  <!-- [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/169525054122491905)](https://discord.com/users/169525054122491905)-->
   
   
- - GitHub Stats
+ - GitHub Shtuff
  
   ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Knrcs&theme=merko&count_private=true&hide_border=true&line_height=25)
   ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Knrcs&theme=onestar)
