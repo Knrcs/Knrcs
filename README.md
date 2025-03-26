@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Knrc and I am an 22 years old Game-developer, 2D / 3D artist and in general very creative person.
+My name is Knrc and I am an 23 year old Game-developer, 2D / 3D artist and in general very creative person.
 
 - 🔭 I’m currently working on:
   * Currently studying Game Creation and working hard to be an Indie dev :> 
